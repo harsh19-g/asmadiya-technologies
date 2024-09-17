@@ -1,0 +1,50 @@
+/* left Side CSS */
+
+.left-container{
+    background-color: #f4fbf5;
+
+    & .navigate-back-icon{
+        margin-bottom: 5rem;
+    }
+
+    & .company-logo{
+        margin-top: 5rem;
+    }
+}
+
+/* Right side CSS */
+
+.right-container{
+    & .form-card{
+        width: 650px;
+    }
+
+    & span .sign-in{
+        color: #34d399;
+    }
+}
+
+.right-container .form-button{
+    background-color:#34d399;
+    color: #fff;
+    &:hover{
+        background-color: #059669;
+    }
+}
+.right-container .auth-googit{
+    border: 1px solid #ced4da;
+    &:hover{
+        background-color: #e4e4e7;
+        color: #374151;
+    }
+
+    & img{
+        width: 20px;
+        height: 20px;
+    }
+}
+
+
+.navbar .indent{
+    margin: 0 5.6rem;
+}
