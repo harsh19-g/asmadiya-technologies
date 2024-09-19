@@ -13,3 +13,17 @@ This project is a complete Authentication system featuring a Register and Login 
 - **Logout**: Users can safely log out of their account.
 
 Firebase handles all user authentication operations and ensures real-time updates of user information via Cloud Firestore. This project provides a secure and efficient authentication solution suitable for modern web applications.
+## Deployment
+
+To run this project on local system
+
+```bash
+  npm run dev
+```
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at harshgupta1941@gmail.com.com
+
